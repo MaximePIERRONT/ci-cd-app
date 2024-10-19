@@ -10,7 +10,6 @@ cache:
 stages:
   - build
   - test
-  - integration-test
 
 build:
   stage: build
